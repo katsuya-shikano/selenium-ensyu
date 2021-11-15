@@ -85,5 +85,6 @@
 	<classpathentry kind="lib" path="lib/lib/opentelemetry-semconv-1.6.0-alpha.jar"/>
 	<classpathentry kind="lib" path="lib/lib/reactive-streams-1.0.3.jar"/>
 	<classpathentry kind="lib" path="lib/lib/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
